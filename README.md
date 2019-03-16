@@ -1,3 +1,3 @@
-# css-grid-ultimate
+# css-grid-layout
 
 My ultimate css-grid website layout. Fully responsive.
